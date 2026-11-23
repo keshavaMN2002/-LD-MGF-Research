@@ -10,3 +10,7 @@ data/interim/
 data/processed/
 
 *.log
+
+output/
+
+dataset/
